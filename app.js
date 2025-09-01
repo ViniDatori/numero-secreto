@@ -1,6 +1,6 @@
 // Definição de variáveis básicas e da lista de números já gerados:
 
-let intervaloMax = 50;
+let intervaloMax = 40;
 let numerosJaGerados = [];
 let numeroSecreto = gerarNumSecreto();
 console.log("O número secreto é: " + numeroSecreto);
